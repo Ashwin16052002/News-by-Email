@@ -330,5 +330,3 @@ https://www.linkedin.com/in/ashwin-v-5124992a9/
 This project is available for educational and personal use.
 
 ---
-
-⭐ If you find this project useful, consider giving the repository a star!
